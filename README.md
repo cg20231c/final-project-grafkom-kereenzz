@@ -1,10 +1,12 @@
 # final-project-grafkom-kereenzz
 
-| Widian Sasi Disertasiani | 5025211024 |
+| Nama                  | NRP        | 
+| --------------------- | ---------- | 
+| Widian Sasi Disertasiani | 5025211024| 
+| Urdhanaka | 5025211123 |
+| Najma Ulya  |  5025211239  |
 
-| Widian Sasi Disertasiani | 5025211024 |
 
-| Widian Sasi Disertasiani | 5025211024 |
 
 
 # ESTRI 
